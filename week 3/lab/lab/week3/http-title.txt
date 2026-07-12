@@ -1,0 +1,8 @@
+# Nmap 7.98 scan initiated Sun Jul 12 23:41:18 2026 as: /usr/lib/nmap/nmap --script http-title -p3000 -oN http-title.txt 127.0.0.1
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00059s latency).
+
+PORT     STATE SERVICE
+3000/tcp open  ppp
+
+# Nmap done at Sun Jul 12 23:41:18 2026 -- 1 IP address (1 host up) scanned in 0.20 seconds
